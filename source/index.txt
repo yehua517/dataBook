@@ -7,9 +7,10 @@ Welcome to yehua's documentation!
 =================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
    
+   
+   helloword
 
 
 Indices and tables
